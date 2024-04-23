@@ -1,1 +1,0 @@
-Welcome to Western Farm Press repository. It was a second semester code in which we focused on making a form. In this form we operate a farm and let user choos edifferent meat and veg options and calculates the total cost depending on per kg price. 
